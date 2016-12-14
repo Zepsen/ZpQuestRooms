@@ -1,0 +1,22 @@
+[
+  {
+    "outputFileName": "wwwroot/JS/bundle.js",
+    "inputFiles": [
+      "wwwroot/JS/Classes/User.js",
+      
+      "wwwroot/JS/Interfaces/IPage.js",
+
+      "wwwroot/JS/Views/Home/Home.js",
+      "wwwroot/JS/Views/User/User.js",
+      
+      "wwwroot/JS/Global.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/CSS/bundle.css",
+    "inputFiles": [
+      "wwwroot/CSS/Site.min.css",
+      "wwwroot/CSS/Home/Home.min.css"
+    ]
+  }
+]
